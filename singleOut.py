@@ -19,3 +19,6 @@ if __name__ == "__main__":
     nums = [4,1,2,1,2]
     x  = obj.singleNumber(nums)
     print(x)
+
+#from leetcode bit operation problem
+#continuing commenting to practice git
